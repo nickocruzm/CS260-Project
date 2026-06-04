@@ -7,7 +7,7 @@ CS220 Final Project
 2. Run all cells sequentially from top to bottom.
 3. Allow each cell to complete.
 4. Wait for all cells to finish before reviewing results.
-5. The output is a downloadable CSV file of the final AUC results.
+5. Josh_Notebook has an additional output of a CSV file containing final AUC results.
 
 --------------------
 Report
