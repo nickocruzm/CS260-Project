@@ -1,9 +1,9 @@
 # CS220-Project
 CS220 Final Project
 
-### Running the Notebook
+### Running a Notebook
 
-1. Open the notebook in Google Colab.
+1. Open either of the notebooks in Google Colab.
 2. Run all cells sequentially from top to bottom.
 3. Allow each cell to complete.
 4. Wait for all cells to finish before reviewing results.
